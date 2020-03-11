@@ -1,0 +1,2 @@
+# Discord
+Helping w/ Discord
